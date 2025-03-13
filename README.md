@@ -27,10 +27,10 @@ ___
 * Using the Leaflet library, I created a map that plots all the earthquakes from the USGS dataset based on their longitude and latitude.
     * My data markers should reflected the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color.
 * Included popups that provide additional information about the earthquake when its associated marker is clicked.
-* Created a legend that will provide context for your map data.
+* Created a legend that will provide context for the map data.
 * Ploted the tectonic plates dataset on the map in addition to the earthquakes.
 * Put each dataset into separate overlays at the top of the map that can be turned on and off independently.
-* Added layer controls to your map.
+* Added layer controls to the map.
 
 ![image](https://github.com/nicholaishaw/leaflet-challenge/assets/135463220/23fe6dfb-e21a-495e-96db-4cc34be20c38)
 
